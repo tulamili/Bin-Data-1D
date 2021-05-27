@@ -3,7 +3,7 @@ INSTALL
 lib/Bin/Data/1D.pm
 LICENSE
 Makefile.PL
-MANIFEST
+MANIFEST			This list of files
 MANIFEST.SKIP
 README
 README.md
@@ -24,4 +24,3 @@ scripts/summing
 scripts/uniq-c
 scripts/venn
 scripts/wc-l
-sdfasdf
