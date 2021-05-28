@@ -1,4 +1,4 @@
-Revision history for the module "Bin::Li" : 
+Revision history for the module "Bin::Data::1D" : 
 
 0.100   2021-05-25T17:50+0900
         最初に作成。7個のコマンドを入れた。
@@ -23,3 +23,7 @@ Revision history for the module "Bin::Li" :
 
 0.120   2021-05-27T16:50+0900
         vennを追加。
+
+0.130   2021-05-29T00:15+0900
+        モジュール名の記載に間違いがあったので手で修正(vimのエディタで)。
+        MANIFEST.SKIP と .gitignore も新しくした。
